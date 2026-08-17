@@ -64,11 +64,8 @@ $CID = "1234567890ABCDEF1234567890ABCDEF-12"
 or
 .\Installer_Windows_Legacy.ps1
 ```
-![Script Output](script-test.png)
 ## Authors
-
 - [@irenemrtinez](https://github.com/irenemrtinez)
-
 
 ## Documentation
 The information used in this script regarding required services, system prerequisites, and installation requirements is based on the official CrowdStrike documentation for Falcon Sensor deployment.
